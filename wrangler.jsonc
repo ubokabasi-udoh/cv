@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "pattern": "cv.ubokabasiudoh.com",
+      "custom_domain": true
+    }
+  ]
+}
